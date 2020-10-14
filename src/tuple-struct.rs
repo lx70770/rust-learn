@@ -4,9 +4,9 @@ fn main() {
 
     // 等价于
 
-    struct Color {
-        0: i32,
-        1: i32,
-        2: i32,
-    }
+    // struct Color {
+    //     0: i32,
+    //     1: i32,
+    //     2: i32,
+    // }
 }
